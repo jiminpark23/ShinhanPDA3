@@ -1,1 +1,2 @@
 오늘 점심은 한촌설렁탕
+clone, pull, push 실습중
